@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+ul {
+    list-style: none;
+}
+
+.menu {
+    color: darkorchid;
+    background-color: #1b1a22;
+}
+
+#section01{
+    background-color: red;
+}
+
+#section02{
+    background-color: green;
+}
+
+#section03{
+    background-color: yellow;
+}
+
+#section04{
+    background-color: blue;
+}
+
+section{
+    height: 70vh;
+}
